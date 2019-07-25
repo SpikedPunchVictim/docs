@@ -8,4 +8,4 @@ Misc Docs and links
 * [Lektor](https://www.getlektor.com/): Build a website locally and publish through an app. Uses jinja templating
 
 # Learning
-* [Anki](https://apps.ankiweb.net/)
+* [Anki](https://apps.ankiweb.net/): Build custom flash cards.
