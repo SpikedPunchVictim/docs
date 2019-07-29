@@ -9,3 +9,4 @@ Misc Docs and links
 
 # Learning
 * [Anki](https://apps.ankiweb.net/): Build custom flash cards.
+* [Data Engineering Cookbook](https://github.com/andkret/Cookbook/blob/master/README.md): Community driven data Engineering learning resource
