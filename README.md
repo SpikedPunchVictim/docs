@@ -12,3 +12,6 @@ Misc Docs and links
  Learning
 * [Anki](https://apps.ankiweb.net/): Build custom flash cards.
 * [Data Engineering Cookbook](https://github.com/andkret/Cookbook/blob/master/README.md): Community driven data Engineering learning resource
+
+# Awesome
+* [Awesome-SelfHosted](https://github.com/Kickball/awesome-selfhosted/blob/master/README.md): List of self hosted apps.
