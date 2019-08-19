@@ -11,9 +11,12 @@ Misc Docs and links
 * [Unison](https://www.cis.upenn.edu/~bcpierce/unison/): Synching files across OS's.
 
 
- Learning
+# Learning
 * [Anki](https://apps.ankiweb.net/): Build custom flash cards.
 * [Data Engineering Cookbook](https://github.com/andkret/Cookbook/blob/master/README.md): Community driven data Engineering learning resource
+
+# Node Modules
+* [Bottleneck](https://github.com/SGrondin/bottleneck/blob/master/README.md): Battle hardened task queue with the ability to cluster and monitor progress through streams.
 
 # Awesome
 * [Awesome-SelfHosted](https://github.com/Kickball/awesome-selfhosted/blob/master/README.md): List of self hosted apps.
