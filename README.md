@@ -9,7 +9,7 @@ Misc Docs and links
 * [Lefthook](https://github.com/Arkweid/lefthook/blob/master/docs/node.md): Add git hooks to any project. Similar to husky, but less dependencies.
 * [Luna](https://www.luna-lang.org/): Build UI and connect it to data sources quickly.
 * [Unison](https://www.cis.upenn.edu/~bcpierce/unison/): Synching files across OS's.
-
+* [PacketStrider](https://github.com/benjeems/packetStrider/blob/master/README.md): SSH forensics tool that uses machine learning to trace SSH traffic.
 
 # Learning
 * [Anki](https://apps.ankiweb.net/): Build custom flash cards.
