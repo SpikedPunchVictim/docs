@@ -16,6 +16,9 @@ Misc Docs and links
 * [Anki](https://apps.ankiweb.net/): Build custom flash cards.
 * [Data Engineering Cookbook](https://github.com/andkret/Cookbook/blob/master/README.md): Community driven data Engineering learning resource
 
+# Best Practices
+* [Code Reviews](https://www.ibm.com/developerworks/rational/library/11-proven-practices-for-peer-review/index.html}: A development team at IBM has collected a series of bext practices for code reviews.
+
 # Node Modules
 * [Bottleneck](https://github.com/SGrondin/bottleneck/blob/master/README.md): Battle hardened task queue with the ability to cluster and monitor progress through streams.
 
