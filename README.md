@@ -14,6 +14,9 @@ Misc Docs and links
 * [Parse](https://parseplatform.org/): A framework to quickly develop full featured web and native apps. Abstracts out, and supports, S3, Redis, Auth, MongoDB, etc.
 * [Unison](https://www.cis.upenn.edu/~bcpierce/unison/): Synching files across OS's.
 
+# NPM
+* [localtunnel](https://localtunnel.github.io/www/): Expose your locally running server to the outside world
+
 # Learning
 * [Anki](https://apps.ankiweb.net/): Build custom flash cards.
 * [Data Engineering Cookbook](https://github.com/andkret/Cookbook/blob/master/README.md): Community driven data Engineering learning resource
