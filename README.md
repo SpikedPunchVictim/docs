@@ -3,6 +3,7 @@ Misc Docs and links
 
 # Tools
 
+* [Apex](http://apex.run/): Apex lets you build, deploy, and manage AWS Lambda functions with ease. Uses AWS Lambda behind the AWS API Gateway.
 * [apprise](https://github.com/caronc/apprise/wiki): Centralized messaging for all major platforms
 * [GreenKeeper](https://greenkeeper.io/): A bot that helps manage your code dependencies.
 * [Insomnia](https://support.insomnia.rest/): REST API testing tool (similar to Postman)
