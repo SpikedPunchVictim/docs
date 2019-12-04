@@ -36,5 +36,8 @@ Misc Docs and links
 # Databases
 * [Liquibase](https://www.liquibase.org/): Database change and deployment solution.
 
+# Machine Learning
+* [Metaflow](https://metaflow.org/): Netflix data science Python library
+
 # Awesome
 * [Awesome-SelfHosted](https://github.com/Kickball/awesome-selfhosted/blob/master/README.md): List of self hosted apps.
