@@ -39,5 +39,8 @@ Misc Docs and links
 # Machine Learning
 * [Metaflow](https://metaflow.org/): Netflix data science Python library
 
+# Gaming
+* [Adventurekeep](https://adventurekeep.com/): D&D Tools
+
 # Awesome
 * [Awesome-SelfHosted](https://github.com/Kickball/awesome-selfhosted/blob/master/README.md): List of self hosted apps.
