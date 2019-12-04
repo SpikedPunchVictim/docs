@@ -11,6 +11,7 @@ Misc Docs and links
 * [Lefthook](https://github.com/Arkweid/lefthook/blob/master/docs/node.md): Add git hooks to any project. Similar to husky, but less dependencies.
 * [Lektor](https://www.getlektor.com/): Build a website locally and publish through an app. Uses jinja templating
 * [Luna](https://www.luna-lang.org/): Build UI and connect it to data sources quickly.
+* [Mitogen](https://mitogen.networkgenomics.com/): Self replicating python programs. They are meant to be used over SSH, using the remote Python interpreter. The remote script is run in memory and managed remotely.
 * [OpenFaas](https://github.com/openfaas/faas/blob/master/README.md): Server less functions running inside of a container
 * [PacketStrider](https://github.com/benjeems/packetStrider/blob/master/README.md): SSH forensics tool that uses machine learning to trace SSH traffic.
 * [Parse](https://parseplatform.org/): A framework to quickly develop full featured web and native apps. Abstracts out, and supports, S3, Redis, Auth, MongoDB, etc.
