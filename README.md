@@ -45,3 +45,4 @@ Misc Docs and links
 
 # Awesome
 * [Awesome-SelfHosted](https://github.com/Kickball/awesome-selfhosted/blob/master/README.md): List of self hosted apps.
+* [Self Hosted List](https://selfhostedsource.tech/self-hosted/all): Searchable lost of send Hosted services
