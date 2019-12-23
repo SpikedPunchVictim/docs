@@ -26,6 +26,9 @@ Misc Docs and links
 # NPM
 * [localtunnel](https://localtunnel.github.io/www/): Expose your locally running server to the outside world
 
+# Libraries
+* [BigCache](https://github.com/allegro/bigcache/blob/master/README.md): (Go) Fast, concurrent, evicting in-memory cache written to keep big number of entries without impact on performance.
+
 # Learning / Documentation Tools
 * [Anki](https://apps.ankiweb.net/): Build custom flash cards.
 * [Data Engineering Cookbook](https://github.com/andkret/Cookbook/blob/master/README.md): Community driven data Engineering learning resource
