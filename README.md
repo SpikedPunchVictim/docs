@@ -22,6 +22,7 @@ Misc Docs and links
 # Kubernetes
 * [DevSpace](https://github.com/devspace-cloud/devspace): Easily manage developer namespaces and privileges in a Kubernetes cluster.
 * [Keiko](https://github.com/keikoproj/keiko/): Tool to help manage Kubernetes at scale.
+* [Tanka](https://github.com/grafana/tanka): Grafana labs Kubernetes configuration built after ksonnet.
 
 # NPM
 * [localtunnel](https://localtunnel.github.io/www/): Expose your locally running server to the outside world
