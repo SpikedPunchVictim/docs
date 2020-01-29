@@ -8,7 +8,7 @@ Misc Docs and links
 * [asciinema](https://asciinema.org/): Record shell sessions.
 * [Ballerina](https://ballerina.io/): Open source programming language cloud based systems.
 * [Cronicle](https://github.com/jhuckaby/Cronicle): Cronicle is a multi-server task scheduler and runner, with a web based front-end UI. It handles both scheduled, repeating and on-demand jobs, targeting any number of slave servers, with real-time stats and live log viewer.
-* [Gotify](https://github.com/gotify/server): Send notifications to any device & or website. [Android Client](https://github.com/gotify/android), [CLI](https://github.com/gotify/cli)
+* [Gotify](https://github.com/gotify/server): Self hosted service that allows you to send notifications to any device & or website. [Android Client](https://github.com/gotify/android), [CLI](https://github.com/gotify/cli)
 * [GreenKeeper](https://greenkeeper.io/): A bot that helps manage your code dependencies.
 * [Insomnia](https://support.insomnia.rest/): REST API testing tool (similar to Postman)
 * [Lefthook](https://github.com/Arkweid/lefthook/blob/master/docs/node.md): Add git hooks to any project. Similar to husky, but less dependencies.
