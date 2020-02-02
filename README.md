@@ -18,6 +18,7 @@ Misc Docs and links
 * [OpenFaas](https://github.com/openfaas/faas/blob/master/README.md): Server less functions running inside of a container
 * [PacketStrider](https://github.com/benjeems/packetStrider/blob/master/README.md): SSH forensics tool that uses machine learning to trace SSH traffic.
 * [Parse](https://parseplatform.org/): A framework to quickly develop full featured web and native apps. Abstracts out, and supports, S3, Redis, Auth, MongoDB, etc.
+* [Shellcheck](https://github.com/koalaman/shellcheck): Tool to help catch shell scripting errors and steer you toward best practices as you write.
 * [TARS](https://github.com/TarsCloud/Tars/blob/master/Introduction.md): Tencent's RPC framework for building massively scalable microservices. "It contains a high-performance RPC framework and a service management platform. Based on Tars, you can develop a reliable microservice system efficiently".
 * [Unison](https://www.cis.upenn.edu/~bcpierce/unison/): Synching files across OS's.
 
