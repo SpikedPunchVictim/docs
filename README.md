@@ -6,6 +6,7 @@ Misc Docs and links
 * [Apex](http://apex.run/): Apex lets you build, deploy, and manage AWS Lambda functions with ease. Uses AWS Lambda behind the AWS API Gateway.
 * [apprise](https://github.com/caronc/apprise/wiki): Centralized messaging for all major platforms
 * [asciinema](https://asciinema.org/): Record shell sessions.
+* [Bastion](https://github.com/bastion-rs/bastion/blob/master/README.md): Highly available distributed fault tolerant runtime.
 * [Binwalk](https://github.com/ReFirmLabs/binwalk): Tool for reverse engineering a binary. Looks for known signatures like certificates, file types, and can expect them.
 * [Ballerina](https://ballerina.io/): Open source programming language cloud based systems.
 * [Cronicle](https://github.com/jhuckaby/Cronicle): Cronicle is a multi-server task scheduler and runner, with a web based front-end UI. It handles both scheduled, repeating and on-demand jobs, targeting any number of slave servers, with real-time stats and live log viewer.
