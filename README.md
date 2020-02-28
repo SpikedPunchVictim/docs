@@ -21,6 +21,7 @@ Misc Docs and links
 * [OpenFaas](https://github.com/openfaas/faas/blob/master/README.md): Server less functions running inside of a container
 * [PacketStrider](https://github.com/benjeems/packetStrider/blob/master/README.md): SSH forensics tool that uses machine learning to trace SSH traffic.
 * [Parse](https://parseplatform.org/): A framework to quickly develop full featured web and native apps. Abstracts out, and supports, S3, Redis, Auth, MongoDB, etc.
+* [Playwright](https://github.com/microsoft/playwright): Web testing tool that can be used to run tests in multiple browsers (ie Firefox, Chrome, Webkit). Developed by Microsoft.
 * [Shellcheck](https://github.com/koalaman/shellcheck): Tool to help catch shell scripting errors and steer you toward best practices as you write.
 * [sshportal](https://github.com/moul/sshportal): Self hosted jump server that allows you to define routes, setup users, invite users, manage ssh keys, various levels of access.
 * [TARS](https://github.com/TarsCloud/Tars/blob/master/Introduction.md): Tencent's RPC framework for building massively scalable microservices. "It contains a high-performance RPC framework and a service management platform. Based on Tars, you can develop a reliable microservice system efficiently".
