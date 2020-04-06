@@ -10,6 +10,7 @@ Misc Docs and links
 * [Binwalk](https://github.com/ReFirmLabs/binwalk): Tool for reverse engineering a binary. Looks for known signatures like certificates, file types, and can expect them.
 * [Ballerina](https://ballerina.io/): Open source programming language cloud based systems.
 * [Cronicle](https://github.com/jhuckaby/Cronicle): Cronicle is a multi-server task scheduler and runner, with a web based front-end UI. It handles both scheduled, repeating and on-demand jobs, targeting any number of slave servers, with real-time stats and live log viewer.
+* [GoJS](https://gojs.net/latest/index.html): Easily build graphs and charts for the web.
 * [Gotify](https://github.com/gotify/server): Self hosted service that allows you to send notifications to any device & or website. [Android Client](https://github.com/gotify/android), [CLI](https://github.com/gotify/cli)
 * [GreenKeeper](https://greenkeeper.io/): A bot that helps manage your code dependencies.
 * [Hasura](https://hasura.io/): Hasura is an open source engine that connects to your databases & microservices and auto-generates a production-ready GraphQL backend. It currently works with Postgres.
