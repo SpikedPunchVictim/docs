@@ -63,6 +63,9 @@ Misc Docs and links
 # Gaming
 * [Adventurekeep](https://adventurekeep.com/): D&D Tools
 
+# Misc Projects
+* [AinD](https://github.com/aind-containers/aind): Android in Docker. Connect to the android device over VNC running in a docker container.
+
 # Awesome
 * [Awesome-SelfHosted](https://github.com/Kickball/awesome-selfhosted/blob/master/README.md): List of self hosted apps.
 * [Self Hosted List](https://selfhostedsource.tech/self-hosted/all): Searchable lost of send Hosted services
