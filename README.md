@@ -9,6 +9,7 @@ Misc Docs and links
 * [Bastion](https://github.com/bastion-rs/bastion/blob/master/README.md): Highly available distributed fault tolerant runtime.
 * [Binwalk](https://github.com/ReFirmLabs/binwalk): Tool for reverse engineering a binary. Looks for known signatures like certificates, file types, and can expect them.
 * [Ballerina](https://ballerina.io/): Open source programming language cloud based systems.
+* [Caddy2](https://caddyserver.com/): A web and proxy server written in Go that is driven by configuration. Upset configuration while it's running without restarting. Easy to define routes and responses.
 * [Cronicle](https://github.com/jhuckaby/Cronicle): Cronicle is a multi-server task scheduler and runner, with a web based front-end UI. It handles both scheduled, repeating and on-demand jobs, targeting any number of slave servers, with real-time stats and live log viewer.
 * [GoJS](https://gojs.net/latest/index.html): Easily build graphs and charts for the web.
 * [Gotify](https://github.com/gotify/server): Self hosted service that allows you to send notifications to any device & or website. [Android Client](https://github.com/gotify/android), [CLI](https://github.com/gotify/cli)
