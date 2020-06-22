@@ -22,6 +22,7 @@ Misc Docs and links
 * [Meili Search](https://github.com/meilisearch/MeiliSearch): A powerful, fast, open-source, easy to use and deploy search engine. Both searching and indexing are highly customizable. Features such as typo-tolerance, filters, and synonyms are provided out-of-the-box.
 * [Mitogen](https://mitogen.networkgenomics.com/): Self replicating python programs. They are meant to be used over SSH, using the remote Python interpreter. The remote script is run in memory and managed remotely.
 * [Mkdocs](https://www.mkdocs.org/): Generate beautiful static docs for use in GitHub, s3, or any other use. Supports markdown.
+* [Nginx Config Editor](https://www.digitalocean.com/community/tools/nginx): Online nginx Config Editor
 * [Nuclio](https://nuclio.io/): Self hosted serverless with dashboards.
 * [OpenFaas](https://github.com/openfaas/faas/blob/master/README.md): Server less functions running inside of a container
 * [PacketStrider](https://github.com/benjeems/packetStrider/blob/master/README.md): SSH forensics tool that uses machine learning to trace SSH traffic.
