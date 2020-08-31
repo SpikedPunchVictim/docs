@@ -16,6 +16,7 @@ Misc Docs and links
 * [GreenKeeper](https://greenkeeper.io/): A bot that helps manage your code dependencies.
 * [Hasura](https://hasura.io/): Hasura is an open source engine that connects to your databases & microservices and auto-generates a production-ready GraphQL backend. It currently works with Postgres.
 * [Insomnia](https://support.insomnia.rest/): REST API testing tool (similar to Postman)
+* [K6](https://github.com/loadimpact/k6): Advanced loadtesting tool
 * [Lefthook](https://github.com/Arkweid/lefthook/blob/master/docs/node.md): Add git hooks to any project. Similar to husky, but less dependencies.
 * [Lektor](https://www.getlektor.com/): Build a website locally and publish through an app. Uses jinja templating
 * [Luna](https://www.luna-lang.org/): Build UI and connect it to data sources quickly.
@@ -32,6 +33,7 @@ Misc Docs and links
 * [sshportal](https://github.com/moul/sshportal): Self hosted jump server that allows you to define routes, setup users, invite users, manage ssh keys, various levels of access.
 * [TARS](https://github.com/TarsCloud/Tars/blob/master/Introduction.md): Tencent's RPC framework for building massively scalable microservices. "It contains a high-performance RPC framework and a service management platform. Based on Tars, you can develop a reliable microservice system efficiently".
 * [Unison](https://www.cis.upenn.edu/~bcpierce/unison/): Synching files across OS's.
+* [Zipkin](https://github.com/openzipkin/zipkin): Distributed tracing system, with support for multiple backends (ElasticSearch, Cassandra, etc)
 
 # Kubernetes
 * [DevSpace](https://github.com/devspace-cloud/devspace): Easily manage developer namespaces and privileges in a Kubernetes cluster.
