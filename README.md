@@ -11,6 +11,7 @@ Misc Docs and links
 * [Ballerina](https://ballerina.io/): Open source programming language cloud based systems.
 * [Caddy2](https://caddyserver.com/): A web and proxy server written in Go that is driven by configuration. Upset configuration while it's running without restarting. Easy to define routes and responses.
 * [Cronicle](https://github.com/jhuckaby/Cronicle): Cronicle is a multi-server task scheduler and runner, with a web based front-end UI. It handles both scheduled, repeating and on-demand jobs, targeting any number of slave servers, with real-time stats and live log viewer.
+* [Dendron](https://www.dendron.so/): Hierarchical documentation system that grows as you do.
 * [GoJS](https://gojs.net/latest/index.html): Easily build graphs and charts for the web.
 * [Gotify](https://github.com/gotify/server): Self hosted service that allows you to send notifications to any device & or website. [Android Client](https://github.com/gotify/android), [CLI](https://github.com/gotify/cli)
 * [GreenKeeper](https://greenkeeper.io/): A bot that helps manage your code dependencies.
