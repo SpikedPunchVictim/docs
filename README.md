@@ -13,6 +13,7 @@ Misc Docs and links
 * [Codeswing](https://github.com/codespaces-contrib/codeswing): Live preview web development in VS Code. Supports React, Vue, etc.  
 * [Cronicle](https://github.com/jhuckaby/Cronicle): Cronicle is a multi-server task scheduler and runner, with a web based front-end UI. It handles both scheduled, repeating and on-demand jobs, targeting any number of slave servers, with real-time stats and live log viewer.
 * [Dendron](https://www.dendron.so/): Hierarchical documentation system that grows as you do.
+* [driftctl](https://github.com/cloudskiff/driftctl): When using tools like Terraform (or infrastructure as code IaC), changes made to the infrastructure that aren't applied through an IaC is called drift. This tool helps keep the changes not made in an IaC stays in sync.
 * [GoJS](https://gojs.net/latest/index.html): Easily build graphs and charts for the web.
 * [Gotify](https://github.com/gotify/server): Self hosted service that allows you to send notifications to any device & or website. [Android Client](https://github.com/gotify/android), [CLI](https://github.com/gotify/cli)
 * [GreenKeeper](https://greenkeeper.io/): A bot that helps manage your code dependencies.
