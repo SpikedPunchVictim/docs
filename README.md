@@ -63,6 +63,7 @@ Misc Docs and links
 
 # Node Modules
 * [Bottleneck](https://github.com/SGrondin/bottleneck/blob/master/README.md): Battle hardened task queue with the ability to cluster and monitor progress through streams.
+* [node-resque](https://github.com/actionhero/node-resque): Part of the `actionhero` framework. Redis backed queues with a Node API.
 
 # Databases
 * [Liquibase](https://www.liquibase.org/): Database change and deployment solution.
