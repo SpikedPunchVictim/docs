@@ -11,6 +11,7 @@ Misc Docs and links
 * [Binwalk](https://github.com/ReFirmLabs/binwalk): Tool for reverse engineering a binary. Looks for known signatures like certificates, file types, and can expect them.
 * [Ballerina](https://ballerina.io/): Open source programming language cloud based systems.
 * [Caddy2](https://caddyserver.com/): A web and proxy server written in Go that is driven by configuration. Upset configuration while it's running without restarting. Easy to define routes and responses.
+* [Chalice](https://github.com/aws/chalice): Easily write and deploy Python code to AWS lamdas. This framework makes it easy for lambdas to be called on AWS events or in a cron fashion.
 * [Codeswing](https://github.com/codespaces-contrib/codeswing): Live preview web development in VS Code. Supports React, Vue, etc.  
 * [Cronicle](https://github.com/jhuckaby/Cronicle): Cronicle is a multi-server task scheduler and runner, with a web based front-end UI. It handles both scheduled, repeating and on-demand jobs, targeting any number of slave servers, with real-time stats and live log viewer.
 * [Dendron](https://www.dendron.so/): Hierarchical documentation system that grows as you do.
