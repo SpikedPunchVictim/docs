@@ -19,6 +19,7 @@ Misc Docs and links
 * [GoJS](https://gojs.net/latest/index.html): Easily build graphs and charts for the web.
 * [Gotify](https://github.com/gotify/server): Self hosted service that allows you to send notifications to any device & or website. [Android Client](https://github.com/gotify/android), [CLI](https://github.com/gotify/cli)
 * [GreenKeeper](https://greenkeeper.io/): A bot that helps manage your code dependencies.
+* [Haraka](https://haraka.github.io/): High performance SMTP server written in Node JS.
 * [Hasura](https://hasura.io/): Hasura is an open source engine that connects to your databases & microservices and auto-generates a production-ready GraphQL backend. It currently works with Postgres.
 * [Insomnia](https://support.insomnia.rest/): REST API testing tool (similar to Postman)
 * [K6](https://github.com/loadimpact/k6): Advanced loadtesting tool
