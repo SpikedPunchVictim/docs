@@ -47,6 +47,7 @@ Misc Docs and links
 * [Caprover](https://caprover.com/): PaaS. Simple tool to manage mutliple Docker containers (logging, DBs, etc).
 * [DevSpace](https://github.com/devspace-cloud/devspace): Easily manage developer namespaces and privileges in a Kubernetes cluster.
 * [dokku](https://dokku.com/): Easily manage multiple docker containers. Simpler than K8s, and meant for smaller projects. PaaS.
+* [keel.sh](https://keel.sh/): Kubernetes operator to manage updating Deployments, ReplicaSets, and DaemonSets when their images change.
 * [Keiko](https://github.com/keikoproj/keiko/): Tool to help manage Kubernetes at scale.
 * [Kubefwd](https://github.com/txn2/kubefwd): Manage multiple port forwards from cluster to local machine easily.
 * [Lens](https://github.com/lensapp/lens): Cross platform (electron app) Kubernetes dashboard. Connects to multiple clusters, displays CPU, memory, and network utilization. View logs and gain terminal access into nodes and pods.
