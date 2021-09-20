@@ -3,7 +3,6 @@ Misc Docs and links
 
 # Tools
 
-* [Apex](http://apex.run/): Apex lets you build, deploy, and manage AWS Lambda functions with ease. Uses AWS Lambda behind the AWS API Gateway.
 * [apprise](https://github.com/caronc/apprise/wiki): Centralized messaging for all major platforms
 * [asciinema](https://asciinema.org/): Record shell sessions.
 * [Backstage](https://backstage.io/): A self-hosted platform for building developer portals, and haveing a single pane of glass for your services and their status.
