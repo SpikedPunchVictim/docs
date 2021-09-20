@@ -18,6 +18,7 @@ Misc Docs and links
 * [driftctl](https://github.com/cloudskiff/driftctl): When using tools like Terraform (or infrastructure as code IaC), changes made to the infrastructure that aren't applied through an IaC is called drift. This tool helps keep the changes not made in an IaC stays in sync.
 * [GoJS](https://gojs.net/latest/index.html): Easily build graphs and charts for the web.
 * [Gotify](https://github.com/gotify/server): Self hosted service that allows you to send notifications to any device & or website. [Android Client](https://github.com/gotify/android), [CLI](https://github.com/gotify/cli)
+* [go-zero](https://github.com/zeromicro/go-zero): A CNCF listed Serverless framework written in Go. It's built using best practices with a good adoption base. 
 * [GreenKeeper](https://greenkeeper.io/): A bot that helps manage your code dependencies.
 * [Haraka](https://haraka.github.io/): High performance SMTP server written in Node JS.
 * [Hasura](https://hasura.io/): Hasura is an open source engine that connects to your databases & microservices and auto-generates a production-ready GraphQL backend. It currently works with Postgres.
