@@ -46,6 +46,7 @@ Misc Docs and links
 # Kubernetes / Containers
 * [Caprover](https://caprover.com/): PaaS. Simple tool to manage mutliple Docker containers (logging, DBs, etc).
 * [DevSpace](https://github.com/devspace-cloud/devspace): Easily manage developer namespaces and privileges in a Kubernetes cluster.
+* [Dive](https://github.com/wagoodman/dive): A command lint utility to breakdown the layers of docker containers. It can help you determine how to optimize a container.
 * [EKS Anywhere](https://github.com/aws/eks-anywhere): Run EKS on your own hardware, to help beridge systems that are on and off cloud.
 * [dokku](https://dokku.com/): Easily manage multiple docker containers. Simpler than K8s, and meant for smaller projects. PaaS.
 * [keel.sh](https://keel.sh/): Kubernetes operator to manage updating Deployments, ReplicaSets, and DaemonSets when their images change.
