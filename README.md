@@ -54,6 +54,7 @@ Misc Docs and links
 * [Kubefwd](https://github.com/txn2/kubefwd): Manage multiple port forwards from cluster to local machine easily.
 * [Lens](https://github.com/lensapp/lens): Cross platform (electron app) Kubernetes dashboard. Connects to multiple clusters, displays CPU, memory, and network utilization. View logs and gain terminal access into nodes and pods.
 * [Tanka](https://github.com/grafana/tanka): Grafana labs Kubernetes configuration built after ksonnet.
+* [Telepresence](https://www.telepresence.io/): Run your processes locally while being able to connect to your kubernetes deployed stack.
 
 # NPM
 * [localtunnel](https://localtunnel.github.io/www/): Expose your locally running server to the outside world
