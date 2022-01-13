@@ -38,6 +38,7 @@ Misc Docs and links
 * [Parse](https://parseplatform.org/): A framework to quickly develop full featured web and native apps. Abstracts out, and supports, S3, Redis, Auth, MongoDB, etc.
 * [Plausible](https://plausible.io/self-hosted-web-analytics): Self hosted Google Analytics
 * [Playwright](https://github.com/microsoft/playwright): Web testing tool that can be used to run tests in multiple browsers (ie Firefox, Chrome, Webkit). Developed by Microsoft.
+* [Posthog](https://posthog.com): Analytics platform you can host yourself, and is highly configuarable.
 * [Pulumi](https://www.pulumi.com/): Modern infrastructure as code. Similar to Terraform, but uses Typescript, .Net (C#, F#, VB), go, Python as the language to describe infrastructure.
 * [Shellcheck](https://github.com/koalaman/shellcheck): Tool to help catch shell scripting errors and steer you toward best practices as you write.
 * [sshportal](https://github.com/moul/sshportal): Self hosted jump server that allows you to define routes, setup users, invite users, manage ssh keys, various levels of access.
