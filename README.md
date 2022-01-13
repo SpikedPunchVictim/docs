@@ -27,6 +27,7 @@ Misc Docs and links
 * [K6](https://github.com/loadimpact/k6): Advanced loadtesting tool
 * [Lefthook](https://github.com/Arkweid/lefthook/blob/master/docs/node.md): Add git hooks to any project. Similar to husky, but less dependencies.
 * [Lektor](https://www.getlektor.com/): Build a website locally and publish through an app. Uses jinja templating
+* [Libhunt](https://www.libhunt.com): Find alternatives to tools that live in GitHub.
 * [Luna](https://www.luna-lang.org/): Build UI and connect it to data sources quickly.
 * [Meili Search](https://github.com/meilisearch/MeiliSearch): A powerful, fast, open-source, easy to use and deploy search engine. Both searching and indexing are highly customizable. Features such as typo-tolerance, filters, and synonyms are provided out-of-the-box.
 * [Mitogen](https://mitogen.networkgenomics.com/): Self replicating python programs. They are meant to be used over SSH, using the remote Python interpreter. The remote script is run in memory and managed remotely.
