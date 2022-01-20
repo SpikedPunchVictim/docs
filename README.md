@@ -57,6 +57,7 @@ Misc Docs and links
 * [Keiko](https://github.com/keikoproj/keiko/): Tool to help manage Kubernetes at scale.
 * [Kubefwd](https://github.com/txn2/kubefwd): Manage multiple port forwards from cluster to local machine easily.
 * [Lens](https://github.com/lensapp/lens): Cross platform (electron app) Kubernetes dashboard. Connects to multiple clusters, displays CPU, memory, and network utilization. View logs and gain terminal access into nodes and pods.
+* [mizu](https://github.com/up9inc/mizu): API traffic viewr for your cluster. No need to install it. It attaches to your pods and inspects your traffic.
 * [Tanka](https://github.com/grafana/tanka): Grafana labs Kubernetes configuration built after ksonnet.
 * [Telepresence](https://www.telepresence.io/): Run your processes locally while being able to connect to your kubernetes deployed stack.
 
