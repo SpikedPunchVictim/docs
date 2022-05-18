@@ -56,6 +56,7 @@ Misc Docs and links
 * [dokku](https://dokku.com/): Easily manage multiple docker containers. Simpler than K8s, and meant for smaller projects. PaaS.
 * [keel.sh](https://keel.sh/): Kubernetes operator to manage updating Deployments, ReplicaSets, and DaemonSets when their images change.
 * [Keiko](https://github.com/keikoproj/keiko/): Tool to help manage Kubernetes at scale.
+* [kind](https://kind.sigs.k8s.io/): Easily bring a local cluster up for testing and development. This tool is lighter than minikube.
 * [Kubefwd](https://github.com/txn2/kubefwd): Manage multiple port forwards from cluster to local machine easily.
 * [Lens](https://github.com/lensapp/lens): Cross platform (electron app) Kubernetes dashboard. Connects to multiple clusters, displays CPU, memory, and network utilization. View logs and gain terminal access into nodes and pods.
 * [mizu](https://github.com/up9inc/mizu): API traffic viewr for your cluster. No need to install it. It attaches to your pods and inspects your traffic.
