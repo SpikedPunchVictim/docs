@@ -65,6 +65,7 @@ Misc Docs and links
 * [mizu](https://github.com/up9inc/mizu): API traffic viewr for your cluster. No need to install it. It attaches to your pods and inspects your traffic.
 * [Tanka](https://github.com/grafana/tanka): Grafana labs Kubernetes configuration built after ksonnet.
 * [Telepresence](https://www.telepresence.io/): Run your processes locally while being able to connect to your kubernetes deployed stack.
+[xlskubectl](https://github.com/learnk8s/xlskubectl): Control your cluster from a Google Doc. Like a dashboard that you can interact with to scale your cluster and services.
 
 # NPM
 * [localtunnel](https://localtunnel.github.io/www/): Expose your locally running server to the outside world
