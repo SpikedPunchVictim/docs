@@ -35,6 +35,7 @@ Misc Docs and links
 * [Mkdocs](https://www.mkdocs.org/): Generate beautiful static docs for use in GitHub, s3, or any other use. Supports markdown.
 * [Nginx Config Editor](https://www.digitalocean.com/community/tools/nginx): Online nginx Config Editor
 * [Nuclio](https://nuclio.io/): Self hosted serverless with dashboards.
+* [n8n](https://n8n.io/): Self hosted and cloud version of Zapier like automation tools. Can be run in K8s with workers and queues.
 * [OpenFaas](https://github.com/openfaas/faas/blob/master/README.md): Server less functions running inside of a container
 * [PacketStrider](https://github.com/benjeems/packetStrider/blob/master/README.md): SSH forensics tool that uses machine learning to trace SSH traffic.
 * [Parse](https://parseplatform.org/): A framework to quickly develop full featured web and native apps. Abstracts out, and supports, S3, Redis, Auth, MongoDB, etc.
