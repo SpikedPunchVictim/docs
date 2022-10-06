@@ -64,6 +64,7 @@ Misc Docs and links
 * [Lens](https://github.com/lensapp/lens): Cross platform (electron app) Kubernetes dashboard. Connects to multiple clusters, displays CPU, memory, and network utilization. View logs and gain terminal access into nodes and pods.
 * [mirrord](https://github.com/metalbear-co/mirrord): Mirror data going to your production cluster, to another cluster or local service.
 * [mizu](https://github.com/up9inc/mizu): API traffic viewr for your cluster. No need to install it. It attaches to your pods and inspects your traffic.
+* [Steampipe](https://steampipe.io/): Run SQL like queries against the cloud. Open source client can connect to over 200+ sources to query for data.
 * [Tanka](https://github.com/grafana/tanka): Grafana labs Kubernetes configuration built after ksonnet.
 * [Telepresence](https://www.telepresence.io/): Run your processes locally while being able to connect to your kubernetes deployed stack.
 [xlskubectl](https://github.com/learnk8s/xlskubectl): Control your cluster from a Google Doc. Like a dashboard that you can interact with to scale your cluster and services.
