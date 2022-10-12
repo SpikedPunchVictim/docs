@@ -46,6 +46,7 @@ Misc Docs and links
 * [redwoodjs](https://github.com/redwoodjs/redwood): Full stack, opinionated framework with React frontend. Developed by the Cofounder of GitHub.
 * [Shellcheck](https://github.com/koalaman/shellcheck): Tool to help catch shell scripting errors and steer you toward best practices as you write.
 * [sshportal](https://github.com/moul/sshportal): Self hosted jump server that allows you to define routes, setup users, invite users, manage ssh keys, various levels of access.
+* [Steampipe](https://steampipe.io/): Run SQL like queries against the cloud. Open source client can connect to over 200+ sources to query for data.
 * [TARS](https://github.com/TarsCloud/Tars/blob/master/Introduction.md): Tencent's RPC framework for building massively scalable microservices. "It contains a high-performance RPC framework and a service management platform. Based on Tars, you can develop a reliable microservice system efficiently".
 * [Unison](https://www.cis.upenn.edu/~bcpierce/unison/): Synching files across OS's.
 * [Zipkin](https://github.com/openzipkin/zipkin): Distributed tracing system, with support for multiple backends (ElasticSearch, Cassandra, etc)
@@ -64,7 +65,6 @@ Misc Docs and links
 * [Lens](https://github.com/lensapp/lens): Cross platform (electron app) Kubernetes dashboard. Connects to multiple clusters, displays CPU, memory, and network utilization. View logs and gain terminal access into nodes and pods.
 * [mirrord](https://github.com/metalbear-co/mirrord): Mirror data going to your production cluster, to another cluster or local service.
 * [mizu](https://github.com/up9inc/mizu): API traffic viewr for your cluster. No need to install it. It attaches to your pods and inspects your traffic.
-* [Steampipe](https://steampipe.io/): Run SQL like queries against the cloud. Open source client can connect to over 200+ sources to query for data.
 * [Tanka](https://github.com/grafana/tanka): Grafana labs Kubernetes configuration built after ksonnet.
 * [Telepresence](https://www.telepresence.io/): Run your processes locally while being able to connect to your kubernetes deployed stack.
 [xlskubectl](https://github.com/learnk8s/xlskubectl): Control your cluster from a Google Doc. Like a dashboard that you can interact with to scale your cluster and services.
