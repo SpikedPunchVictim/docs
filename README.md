@@ -24,6 +24,7 @@ Misc Docs and links
 * [Hasura](https://hasura.io/): Hasura is an open source engine that connects to your databases & microservices and auto-generates a production-ready GraphQL backend. It currently works with Postgres.
 * [HTTP Toolkit](https://httptoolkit.tech/): Open source alternative to Postman.
 * [Insomnia](https://support.insomnia.rest/): REST API testing tool (similar to Postman)
+* [Jitar](https://github.com/MaskingTechnology/jitar): Runs a monolith application as a distributed system; for Typescript/Node/
 * [K6](https://github.com/loadimpact/k6): Advanced loadtesting tool
 * [Lefthook](https://github.com/Arkweid/lefthook/blob/master/docs/node.md): Add git hooks to any project. Similar to husky, but less dependencies.
 * [Lektor](https://www.getlektor.com/): Build a website locally and publish through an app. Uses jinja templating
