@@ -76,6 +76,10 @@ Misc Docs and links
 # Libraries
 * [BigCache](https://github.com/allegro/bigcache/blob/master/README.md): (Go) Fast, concurrent, evicting in-memory cache written to keep big number of entries without impact on performance.
 
+# Web Development
+* [Capacitor](https://capacitorjs.com/): Run web apps on mobile/native devices.
+* [zustand](https://github.com/pmndrs/zustand): (React) Simpler data and state management than what's provided by React.
+
 # Learning / Documentation Tools
 * [Anki](https://apps.ankiweb.net/): Build custom flash cards.
 * [Data Engineering Cookbook](https://github.com/andkret/Cookbook/blob/master/README.md): Community driven data Engineering learning resource
