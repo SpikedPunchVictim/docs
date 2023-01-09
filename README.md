@@ -78,6 +78,7 @@ Misc Docs and links
 
 # Web Development
 * [Capacitor](https://capacitorjs.com/): Run web apps on mobile/native devices.
+* [GoatCounter](https://www.goatcounter.com/): Open source replacement for Google Analytics.
 * [zustand](https://github.com/pmndrs/zustand): (React) Simpler data and state management than what's provided by React.
 
 # Learning / Documentation Tools
