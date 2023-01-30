@@ -43,6 +43,7 @@ Misc Docs and links
 * [Plausible](https://plausible.io/self-hosted-web-analytics): Self hosted Google Analytics
 * [Playwright](https://github.com/microsoft/playwright): Web testing tool that can be used to run tests in multiple browsers (ie Firefox, Chrome, Webkit). Developed by Microsoft.
 * [Posthog](https://posthog.com): Analytics platform you can host yourself, and is highly configuarable.
+* [proxify](https://github.com/projectdiscovery/proxify): Self hosted proxy to view/manipulate traffic.
 * [Pulumi](https://www.pulumi.com/): Modern infrastructure as code. Similar to Terraform, but uses Typescript, .Net (C#, F#, VB), go, Python as the language to describe infrastructure.
 * [redwoodjs](https://github.com/redwoodjs/redwood): Full stack, opinionated framework with React frontend. Developed by the Cofounder of GitHub.
 * [Shellcheck](https://github.com/koalaman/shellcheck): Tool to help catch shell scripting errors and steer you toward best practices as you write.
