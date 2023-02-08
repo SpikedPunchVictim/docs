@@ -52,6 +52,7 @@ Misc Docs and links
 * [TARS](https://github.com/TarsCloud/Tars/blob/master/Introduction.md): Tencent's RPC framework for building massively scalable microservices. "It contains a high-performance RPC framework and a service management platform. Based on Tars, you can develop a reliable microservice system efficiently".
 * [Unison](https://www.cis.upenn.edu/~bcpierce/unison/): Synching files across OS's.
 * [Zipkin](https://github.com/openzipkin/zipkin): Distributed tracing system, with support for multiple backends (ElasticSearch, Cassandra, etc)
+* [zrok](https://zrok.io/): Self hosted Zero Trust mesh network. Can easily setup local files and services to share privately.
 
 # Kubernetes / Containers
 * [Caprover](https://caprover.com/): PaaS. Simple tool to manage mutliple Docker containers (logging, DBs, etc).
