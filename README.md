@@ -97,6 +97,7 @@ Misc Docs and links
 
 # Databases
 * [Liquibase](https://www.liquibase.org/): Database change and deployment solution.
+* [Mathesar](https://github.com/centerofci/mathesar): Multi-user interactive editor/viewer for Postgres DB.
 
 # Machine Learning
 * [Metaflow](https://metaflow.org/): Netflix data science Python library
