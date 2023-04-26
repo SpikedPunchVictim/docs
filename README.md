@@ -74,6 +74,7 @@ Misc Docs and links
 
 # NPM
 * [localtunnel](https://localtunnel.github.io/www/): Expose your locally running server to the outside world
+* [Nango](https://github.com/NangoHQ/nango): Normalized API for OAuth'ing into a ton services.
 
 # Libraries
 * [BigCache](https://github.com/allegro/bigcache/blob/master/README.md): (Go) Fast, concurrent, evicting in-memory cache written to keep big number of entries without impact on performance.
