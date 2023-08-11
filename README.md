@@ -85,6 +85,9 @@ Misc Docs and links
 * [GoatCounter](https://www.goatcounter.com/): Open source replacement for Google Analytics.
 * [zustand](https://github.com/pmndrs/zustand): (React) Simpler data and state management than what's provided by React.
 
+# AI
+* [ax](https://github.com/axilla-io/ax): AI Framework for Typescript
+
 # Learning / Documentation Tools
 * [Anki](https://apps.ankiweb.net/): Build custom flash cards.
 * [Data Engineering Cookbook](https://github.com/andkret/Cookbook/blob/master/README.md): Community driven data Engineering learning resource
