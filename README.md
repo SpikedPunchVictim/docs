@@ -84,6 +84,7 @@ Misc Docs and links
 * [Capacitor](https://capacitorjs.com/): Run web apps on mobile/native devices.
 * [Fuse Theme](https://fusetheme.com/): Quickly setup a nice looking front end for React or Angular
 * [GoatCounter](https://www.goatcounter.com/): Open source replacement for Google Analytics.
+* [refine](https://refine.dev): React Framework that separates data from UI, and provides hooks and components for authentication, access control, routing, networking, and state management.
 * [zustand](https://github.com/pmndrs/zustand): (React) Simpler data and state management than what's provided by React.
 
 # AI
