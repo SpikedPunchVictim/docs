@@ -80,6 +80,7 @@ Misc Docs and links
 * [BigCache](https://github.com/allegro/bigcache/blob/master/README.md): (Go) Fast, concurrent, evicting in-memory cache written to keep big number of entries without impact on performance.
 
 # Web Development
+* [Astro](https://astro.build/): Flexible Web development framework that optimizes most aspects running a website.
 * [Capacitor](https://capacitorjs.com/): Run web apps on mobile/native devices.
 * [Fuse Theme](https://fusetheme.com/): Quickly setup a nice looking front end for React or Angular
 * [GoatCounter](https://www.goatcounter.com/): Open source replacement for Google Analytics.
