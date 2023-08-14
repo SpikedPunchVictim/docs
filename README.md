@@ -88,6 +88,7 @@ Misc Docs and links
 
 # AI
 * [ax](https://github.com/axilla-io/ax): AI Framework for Typescript
+* [Azure Open AI](https://github.com/microsoft/azurechatgpt): Microsoft's Private LLM/ChatGPT offering
 
 # Learning / Documentation Tools
 * [Anki](https://apps.ankiweb.net/): Build custom flash cards.
