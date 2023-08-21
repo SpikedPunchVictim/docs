@@ -34,6 +34,7 @@ Misc Docs and links
 * [Meili Search](https://github.com/meilisearch/MeiliSearch): A powerful, fast, open-source, easy to use and deploy search engine. Both searching and indexing are highly customizable. Features such as typo-tolerance, filters, and synonyms are provided out-of-the-box.
 * [Mitogen](https://mitogen.networkgenomics.com/): Self replicating python programs. They are meant to be used over SSH, using the remote Python interpreter. The remote script is run in memory and managed remotely.
 * [Mkdocs](https://www.mkdocs.org/): Generate beautiful static docs for use in GitHub, s3, or any other use. Supports markdown.
+* [Narrowlink](https://narrowlink.com/): Tunneling mesh network, similar to tailscale. The main difference to tailscale is that it's not centrally managed, and easier to scale.
 * [Nginx Config Editor](https://www.digitalocean.com/community/tools/nginx): Online nginx Config Editor
 * [Nuclio](https://nuclio.io/): Self hosted serverless with dashboards.
 * [n8n](https://n8n.io/): Self hosted and cloud version of Zapier like automation tools. Can be run in K8s with workers and queues.
