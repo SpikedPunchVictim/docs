@@ -117,6 +117,7 @@ Misc Docs and links
 
 # Misc Projects
 * [AinD](https://github.com/aind-containers/aind): Android in Docker. Connect to the android device over VNC running in a docker container.
+* [rclone](https://rclone.org/): Local tool to mount drive to most cloud based storage solutions
 
 # Awesome
 * [Awesome-SelfHosted](https://github.com/Kickball/awesome-selfhosted/blob/master/README.md): List of self hosted apps.
