@@ -86,6 +86,7 @@ Misc Docs and links
 * [Fuse Theme](https://fusetheme.com/): Quickly setup a nice looking front end for React or Angular
 * [Lowdefy](https://www.lowdefy.com/): Build out webapps using yml cofng. This helps future proof webistes you build.
 * [GoatCounter](https://www.goatcounter.com/): Open source replacement for Google Analytics.
+* [orval](https://orval.dev/): Build mocks of your backend service using OpenAPI specs. Cuts down development time on the frontend.
 * [refine](https://refine.dev): React Framework that separates data from UI, and provides hooks and components for authentication, access control, routing, networking, and state management.
 * [zustand](https://github.com/pmndrs/zustand): (React) Simpler data and state management than what's provided by React.
 
