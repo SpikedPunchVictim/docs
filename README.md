@@ -88,6 +88,7 @@ Misc Docs and links
 * [GoatCounter](https://www.goatcounter.com/): Open source replacement for Google Analytics.
 * [orval](https://orval.dev/): Build mocks of your backend service using OpenAPI specs. Cuts down development time on the frontend.
 * [refine](https://refine.dev): React Framework that separates data from UI, and provides hooks and components for authentication, access control, routing, networking, and state management.
+* [userfront](https://userfront.com/): Web service that takes care of the OAuth complexities for you
 * [zustand](https://github.com/pmndrs/zustand): (React) Simpler data and state management than what's provided by React.
 
 # AI
