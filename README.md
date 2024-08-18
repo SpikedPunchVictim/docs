@@ -72,6 +72,7 @@ Misc Docs and links
 * [Tanka](https://github.com/grafana/tanka): Grafana labs Kubernetes configuration built after ksonnet.
 * [Telepresence](https://www.telepresence.io/): Run your processes locally while being able to connect to your kubernetes deployed stack.
 [xlskubectl](https://github.com/learnk8s/xlskubectl): Control your cluster from a Google Doc. Like a dashboard that you can interact with to scale your cluster and services.
+* [Wormhole](https://github.com/magic-wormhole/magic-wormhole): Move large files between systems in various networked environments
 
 # NPM
 * [localtunnel](https://localtunnel.github.io/www/): Expose your locally running server to the outside world
