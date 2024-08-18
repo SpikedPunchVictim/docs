@@ -52,6 +52,7 @@ Misc Docs and links
 * [Steampipe](https://steampipe.io/): Run SQL like queries against the cloud. Open source client can connect to over 200+ sources to query for data.
 * [TARS](https://github.com/TarsCloud/Tars/blob/master/Introduction.md): Tencent's RPC framework for building massively scalable microservices. "It contains a high-performance RPC framework and a service management platform. Based on Tars, you can develop a reliable microservice system efficiently".
 * [Unison](https://www.cis.upenn.edu/~bcpierce/unison/): Synching files across OS's.
+* [Wormhole](https://github.com/magic-wormhole/magic-wormhole): Move large files between systems in various networked environments
 * [Zipkin](https://github.com/openzipkin/zipkin): Distributed tracing system, with support for multiple backends (ElasticSearch, Cassandra, etc)
 * [zrok](https://zrok.io/): Self hosted Zero Trust mesh network. Can easily setup local files and services to share privately.
 
@@ -72,7 +73,6 @@ Misc Docs and links
 * [Tanka](https://github.com/grafana/tanka): Grafana labs Kubernetes configuration built after ksonnet.
 * [Telepresence](https://www.telepresence.io/): Run your processes locally while being able to connect to your kubernetes deployed stack.
 [xlskubectl](https://github.com/learnk8s/xlskubectl): Control your cluster from a Google Doc. Like a dashboard that you can interact with to scale your cluster and services.
-* [Wormhole](https://github.com/magic-wormhole/magic-wormhole): Move large files between systems in various networked environments
 
 # NPM
 * [localtunnel](https://localtunnel.github.io/www/): Expose your locally running server to the outside world
