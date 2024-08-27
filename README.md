@@ -57,7 +57,6 @@ Misc Docs and links
 * [zrok](https://zrok.io/): Self hosted Zero Trust mesh network. Can easily setup local files and services to share privately.
 
 # Kubernetes / Containers
-* [Caprover](https://caprover.com/): PaaS. Simple tool to manage mutliple Docker containers (logging, DBs, etc).
 * [DevSpace](https://github.com/devspace-cloud/devspace): Easily manage developer namespaces and privileges in a Kubernetes cluster.
 * [Dive](https://github.com/wagoodman/dive): A command lint utility to breakdown the layers of docker containers. It can help you determine how to optimize a container.
 * [EKS Anywhere](https://github.com/aws/eks-anywhere): Run EKS on your own hardware, to help beridge systems that are on and off cloud.
@@ -73,6 +72,12 @@ Misc Docs and links
 * [Tanka](https://github.com/grafana/tanka): Grafana labs Kubernetes configuration built after ksonnet.
 * [Telepresence](https://www.telepresence.io/): Run your processes locally while being able to connect to your kubernetes deployed stack.
 [xlskubectl](https://github.com/learnk8s/xlskubectl): Control your cluster from a Google Doc. Like a dashboard that you can interact with to scale your cluster and services.
+
+# PaaS
+* [Caprover](https://caprover.com/): PaaS. Simple tool to manage mutliple Docker containers (logging, DBs, etc).
+* [Coolify](https://coolify.io/): Open source alternative to Heroku/Vercel/etc. Supports DBs, backups, scaling, cert management, etc.
+* [Dokku](https://dokku.com): Open source alternative to Heroku. Manage deployments through command line.
+* [Dokploy](https://github.com/Dokploy/dokploy): Open source alternative to Heroku/Netlify/Vercel. Manages DBs, backups, routing, scaling, etc.
 
 # NPM
 * [localtunnel](https://localtunnel.github.io/www/): Expose your locally running server to the outside world
