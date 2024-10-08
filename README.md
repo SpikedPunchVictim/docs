@@ -86,6 +86,9 @@ Misc Docs and links
 # Libraries
 * [BigCache](https://github.com/allegro/bigcache/blob/master/README.md): (Go) Fast, concurrent, evicting in-memory cache written to keep big number of entries without impact on performance.
 
+# Backend Services
+*[Jazz](https://jazz.tools/): Jazz is an open-source framework for building local-first apps, removing 90% of the backend and infrastructure complexity. Get real-time sync, storage, auth, permissions, instant UI updates, file uploads, and more
+
 # Web Development
 * [Astro](https://astro.build/): Flexible Web development framework that optimizes most aspects running a website.
 * [Capacitor](https://capacitorjs.com/): Run web apps on mobile/native devices.
