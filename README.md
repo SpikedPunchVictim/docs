@@ -79,6 +79,7 @@ Misc Docs and links
 * [Coolify](https://coolify.io/): Open source alternative to Heroku/Vercel/etc. Supports DBs, backups, scaling, cert management, etc.
 * [Dokku](https://dokku.com): Open source alternative to Heroku. Manage deployments through command line.
 * [Dokploy](https://github.com/Dokploy/dokploy): Open source alternative to Heroku/Netlify/Vercel. Manages DBs, backups, routing, scaling, etc.
+* [Reclaim the Stack](https://reclaim-the-stack.com/): Kubernetes based platform that provides a Heroku like experience for developers.
 
 # NPM
 * [localtunnel](https://localtunnel.github.io/www/): Expose your locally running server to the outside world
