@@ -57,6 +57,7 @@ Misc Docs and links
 * [zrok](https://zrok.io/): Self hosted Zero Trust mesh network. Can easily setup local files and services to share privately.
 
 # Kubernetes / Containers
+* [Carvel](https://carvel.dev/): Suite of tools to help Kubernetes app developers package up kubernetes apps with configuration and yaml generation.
 * [DevSpace](https://github.com/devspace-cloud/devspace): Easily manage developer namespaces and privileges in a Kubernetes cluster.
 * [Dive](https://github.com/wagoodman/dive): A command lint utility to breakdown the layers of docker containers. It can help you determine how to optimize a container.
 * [EKS Anywhere](https://github.com/aws/eks-anywhere): Run EKS on your own hardware, to help beridge systems that are on and off cloud.
