@@ -74,6 +74,7 @@ Misc Docs and links
 * [Tanka](https://github.com/grafana/tanka): Grafana labs Kubernetes configuration built after ksonnet.
 * [Telepresence](https://www.telepresence.io/): Run your processes locally while being able to connect to your kubernetes deployed stack.
 [xlskubectl](https://github.com/learnk8s/xlskubectl): Control your cluster from a Google Doc. Like a dashboard that you can interact with to scale your cluster and services.
+* [Worker Tools](https://workers.tools/): Software development tools/libraries for services running in Worker environments (Cloudflare, AWS Lambda, etc)
 
 # PaaS
 * [Caprover](https://caprover.com/): PaaS. Simple tool to manage mutliple Docker containers (logging, DBs, etc).
