@@ -3,6 +3,7 @@ Misc Docs and links
 
 # Tools
 
+* [act](https://github.com/nektos/act): Run your GitHub actions locally. Reduce the turn around time when waiting for ations to run.
 * [apprise](https://github.com/caronc/apprise/wiki): Centralized messaging for all major platforms
 * [asciinema](https://asciinema.org/): Record shell sessions.
 * [Backstage](https://backstage.io/): A self-hosted platform for building developer portals, and haveing a single pane of glass for your services and their status.
