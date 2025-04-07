@@ -69,6 +69,7 @@ Misc Docs and links
 * [keel.sh](https://keel.sh/): Kubernetes operator to manage updating Deployments, ReplicaSets, and DaemonSets when their images change.
 * [Keiko](https://github.com/keikoproj/keiko/): Tool to help manage Kubernetes at scale.
 * [kind](https://kind.sigs.k8s.io/): Easily bring a local cluster up for testing and development. This tool is lighter than minikube.
+* [Kubescape](https://kubescape.io/): Security scanning tools and proactive security posturing. Scans helm charts, yaml files, runs eBF tooling, and much more to help developers secure their clusters.
 * [Kubefwd](https://github.com/txn2/kubefwd): Manage multiple port forwards from cluster to local machine easily.
 * [Lens](https://github.com/lensapp/lens): Cross platform (electron app) Kubernetes dashboard. Connects to multiple clusters, displays CPU, memory, and network utilization. View logs and gain terminal access into nodes and pods.
 * [mirrord](https://github.com/metalbear-co/mirrord): Mirror data going to your production cluster, to another cluster or local service.
