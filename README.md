@@ -95,6 +95,7 @@ Misc Docs and links
 
 # Backend Services
 *[Jazz](https://jazz.tools/): Jazz is an open-source framework for building local-first apps, removing 90% of the backend and infrastructure complexity. Get real-time sync, storage, auth, permissions, instant UI updates, file uploads, and more
+* [Yunohost](https://yunohost.org/): An hosted service like an OS. It makes it easy to install (one click) self-hostable services. Upgrade between versions easily and manage then easily.
 
 # Web Development
 * [Astro](https://astro.build/): Flexible Web development framework that optimizes most aspects running a website.
