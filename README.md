@@ -14,6 +14,7 @@ Misc Docs and links
 * [Caddy2](https://caddyserver.com/): A web and proxy server written in Go that is driven by configuration. Upset configuration while it's running without restarting. Easy to define routes and responses.
 * [Chalice](https://github.com/aws/chalice): Easily write and deploy Python code to AWS lamdas. This framework makes it easy for lambdas to be called on AWS events or in a cron fashion.
 * [Codeswing](https://github.com/codespaces-contrib/codeswing): Live preview web development in VS Code. Supports React, Vue, etc.  
+* [copyparty](https://github.com/9001/copyparty): A full featured file server. It supports resumable uploads, dedupe, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++. No dependencies.
 * [Cronicle](https://github.com/jhuckaby/Cronicle): Cronicle is a multi-server task scheduler and runner, with a web based front-end UI. It handles both scheduled, repeating and on-demand jobs, targeting any number of slave servers, with real-time stats and live log viewer.
 * [Dendron](https://www.dendron.so/): Hierarchical documentation system that grows as you do.
 * [driftctl](https://github.com/cloudskiff/driftctl): When using tools like Terraform (or infrastructure as code IaC), changes made to the infrastructure that aren't applied through an IaC is called drift. This tool helps keep the changes not made in an IaC stays in sync.
